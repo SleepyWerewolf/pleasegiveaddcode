@@ -1,9 +1,25 @@
-.please-give-me-an-add-code {
+body {
 	font-family: "Indie Flower";
+}
+.please-give-me-an-add-code {
 	font-size: 15em;
 	font-weight: bold;
 	display: block;
 	width: 100%;
 	text-align: center;
-	margin-top:200px;
+	margin-top:50px;
+}
+.please {
+	font-size: 2em;
+	margin-bottom: -20px;
+	float: right;
+}
+.can-i-has {
+	width: 100%;
+	text-align: center;
+	display: block;
+}
+.wow {
+	font-size: 5em;
+	margin-left: 200px;
 }
